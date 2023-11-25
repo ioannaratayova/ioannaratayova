@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/fc/f2/5cfcf2982930665e2a22f3c2d634976d.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ioannaratayova&label=Profile%20views&color=0e75b6&style=flat" alt="ioannaratayova" /> </p>
+
 
 - 🔭 I’m currently working on [Book auction](https://github.com/ioannaratayova/Book-auction)
 
