@@ -25,7 +25,4 @@
 
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioannaratayova&show_icons=true&locale=en&layout=compact" alt="ioannaratayova" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioannaratayova&show_icons=true&locale=en" alt="ioannaratayova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ioannaratayova&" alt="ioannaratayova" /></p>
 
